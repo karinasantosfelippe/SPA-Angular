@@ -1,10 +1,20 @@
 # SPA-Angular
- SPA Angular com API Produtos.
+ SPA Angular 9 com API Produtos.
  
  
 ## Descrição
 
-Aplicação desenvolvida para implementar os métodos CRUD (criação, leitura, atualização, remoção) de produtos, para uma empresa "fictícia" de ateliê, chamada Jujoli Ateliê.
+Aplicação desenvolvida para implementar a administração (CRUD - criação, leitura, atualização, remoção) de produtos, para uma empresa "fictícia" de ateliê, chamada Jujoli Ateliê.
+O projeto inclui uma API para Produtos, com JSON server, e uma SPA, em Angular 9.
+
+Os principais conceitos de Angular abordados foram:
+* Componentes
+* Diretivas
+* Services
+* Observables
+* Pipes
+* Injeção de Dependência
+* etc.
 
 
 ## Overview
